@@ -3,8 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-statsmodels
 scikit-learn
+statsmodels
 xgboost
 pmdarima
-Cython
