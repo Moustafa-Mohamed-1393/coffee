@@ -1,4 +1,5 @@
+g++
+gcc
+libc-dev
 build-essential
 python3-dev
-gcc
-g++
