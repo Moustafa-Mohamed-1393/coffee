@@ -8,3 +8,4 @@ scikit-learn
 xgboost
 pmdarima
 Cython
+build-essential
