@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
 statsmodels
-xgboost
 pmdarima
+sklearn
+xgboost
